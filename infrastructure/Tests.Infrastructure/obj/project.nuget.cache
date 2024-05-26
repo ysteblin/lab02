@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1xYX1sCQBwh2Fs1LzihDtqyoE3PovZP6bTf8szZeKdvJef8EoC4Uh7gkyzcul/H0oaudbYV/o1bDqpjPhT2IeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anvil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anvil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512"
+  ],
+  "logs": []
+}

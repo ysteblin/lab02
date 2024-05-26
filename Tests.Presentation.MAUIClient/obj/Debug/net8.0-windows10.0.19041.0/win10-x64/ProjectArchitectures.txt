@@ -1,0 +1,1 @@
+C:\Users\Anvil\Desktop\Tests\Tests.Presentation.MAUIClient\Tests.Presentation.MAUIClient.csproj;x64

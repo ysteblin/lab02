@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tests.Presentation.MAUIClient.Pages.Tests.Challenge.AddChallengeTestPage"
+             xmlns:viewModels="clr-namespace:Tests.Presentation.MAUIClient.ViewModels.Tests.Challenge"
+             x:DataType="viewModels:AddChallengeTestViewModel"
+             Title="AddChallengeTestPage">
+    <ScrollView>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition   Width="300"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Column="0" Grid.Row="0" Margin="10,0,0,0" HorizontalOptions="StartAndExpand"  Text="Название"  Style="{StaticResource SubHeadline}" SemanticProperties.HeadingLevel="Level2"/>
+            <Entry Grid.Column="1" Grid.Row="0" Text="{Binding Test.Name}" />
+
+            <Label Grid.Column="0" Grid.Row="1" Margin="10,0,0,0" HorizontalOptions="StartAndExpand"  Text="Тема"  Style="{StaticResource SubHeadline}" SemanticProperties.HeadingLevel="Level2"/>
+            <Entry Grid.Column="1" Grid.Row="1" Text="{Binding Test.Topic}" />
+
+            <Label Grid.Column="0" Grid.Row="2" Margin="10,0,0,0" HorizontalOptions="StartAndExpand"  Text="Время"  Style="{StaticResource SubHeadline}" SemanticProperties.HeadingLevel="Level2"/>
+            <Entry Grid.Column="1" Grid.Row="2" Text="{Binding Test.TestTime}" />
+
+            <Label Grid.Column="0" Grid.Row="3" Margin="10,0,0,0" HorizontalOptions="StartAndExpand"  Text="Местоположение"  Style="{StaticResource SubHeadline}" SemanticProperties.HeadingLevel="Level2"/>
+            <Entry Grid.Column="1" Grid.Row="3" Text="{Binding Test.Location}" />
+
+            <Label Grid.Column="0" Grid.Row="4" Margin="10,0,0,0" HorizontalOptions="StartAndExpand"  Text="Дата"  Style="{StaticResource SubHeadline}" SemanticProperties.HeadingLevel="Level2"/>
+            <Entry Grid.Column="1" Grid.Row="4" Text="{Binding Test.Date}" />
+
+            <Label Grid.Column="0" Grid.Row="5" Margin="10,0,0,0" HorizontalOptions="StartAndExpand"  Text="Проходнй балл"  Style="{StaticResource SubHeadline}" SemanticProperties.HeadingLevel="Level2"/>
+            <Entry Grid.Column="1" Grid.Row="5"  Text="{Binding Test.PassingScore}" />
+
+            <Button Grid.Column="0" Grid.Row="6"
+             Grid.ColumnSpan="2" 
+             Text="Добавить" 
+             Margin="20"
+             SemanticProperties.Hint="Добавить дизельный двигатель"
+             Command="{Binding AddChallengeTestCommand}" 
+             HorizontalOptions="Fill" />
+
+        </Grid>
+    </ScrollView>
+</ContentPage>

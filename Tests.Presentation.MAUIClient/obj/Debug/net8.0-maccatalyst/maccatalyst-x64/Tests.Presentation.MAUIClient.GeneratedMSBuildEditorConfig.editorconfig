@@ -1,0 +1,107 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tests.Presentation.MAUIClient
+build_property.ProjectDir = C:\Users\Anvil\Desktop\Tests\Tests.Presentation.MAUIClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/Challenge/AddChallengeTestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.Challenge.AddChallengeTestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\Challenge\AddChallengeTestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\Challenge\AddChallengeTestPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/Challenge/ChallengeTestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.Challenge.ChallengeTestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\Challenge\ChallengeTestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\Challenge\ChallengeTestPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/Challenge/GetChallengeTestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.Challenge.GetChallengeTestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\Challenge\GetChallengeTestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\Challenge\GetChallengeTestPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/Exam/AddExamTestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.Exam.AddExamTestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\Exam\AddExamTestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\Exam\AddExamTestPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/Exam/ExamTestePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.Exam.ExamTestePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\Exam\ExamTestePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\Exam\ExamTestePage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/Exam/GetExamTestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.Exam.GetExamTestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\Exam\GetExamTestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\Exam\GetExamTestPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/FinalExam/AddFinalExamTestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.FinalExam.AddFinalExamTestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\FinalExam\AddFinalExamTestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\FinalExam\AddFinalExamTestPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/FinalExam/FinalExamTestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.FinalExam.FinalExamTestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\FinalExam\FinalExamTestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\FinalExam\FinalExamTestPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Pages/Tests/FinalExam/GetFinalExamTestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Pages.Tests.FinalExam.GetFinalExamTestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tests\FinalExam\GetFinalExamTestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tests\FinalExam\GetFinalExamTestPage.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Anvil/Desktop/Tests/Tests.Presentation.MAUIClient/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tests.Presentation.MAUIClient.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

@@ -1,0 +1,955 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anvil\\Desktop\\Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\challenge\\addchallengetestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\challenge\\addchallengetestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\finalexam\\finalexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\finalexam\\finalexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\exam\\examtestepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\exam\\examtestepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\challenge\\challengetestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\challenge\\challengetestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\finalexam\\addfinalexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\finalexam\\addfinalexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\exam\\addexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\exam\\addexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\challenge\\getchallengetestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\challenge\\getchallengetestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\finalexam\\getfinalexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\finalexam\\getfinalexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\finalexam\\finalexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\finalexam\\finalexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\finalexam\\addfinalexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\finalexam\\addfinalexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\exam\\addexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\exam\\addexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\finalexam\\getfinalexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\finalexam\\getfinalexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\finalexam\\getfinalexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\finalexam\\getfinalexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\finalexam\\finalexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\finalexam\\finalexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\finalexam\\addfinalexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\finalexam\\addfinalexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA99EE-72C7-4E90-A3CB-3E121EAE242A}|core\\Tests.Domain\\Tests.Domain.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.domain\\entities\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA99EE-72C7-4E90-A3CB-3E121EAE242A}|core\\Tests.Domain\\Tests.Domain.csproj|solutionrelative:core\\tests.domain\\entities\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|c:\\users\\anvil\\desktop\\tests\\infrastructure\\tests.infrastructure\\services\\finalexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|solutionrelative:infrastructure\\tests.infrastructure\\services\\finalexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA99EE-72C7-4E90-A3CB-3E121EAE242A}|core\\Tests.Domain\\Tests.Domain.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.domain\\entities\\base\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA99EE-72C7-4E90-A3CB-3E121EAE242A}|core\\Tests.Domain\\Tests.Domain.csproj|solutionrelative:core\\tests.domain\\entities\\base\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\common\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\common\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\exam\\getexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\exam\\getexamtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\exam\\getexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\exam\\getexamtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\exam\\getexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\exam\\getexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\exam\\examtestepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\exam\\examtestepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\exam\\examtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\exam\\examtestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\exam\\addexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\exam\\addexamtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA99EE-72C7-4E90-A3CB-3E121EAE242A}|core\\Tests.Domain\\Tests.Domain.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.domain\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA99EE-72C7-4E90-A3CB-3E121EAE242A}|core\\Tests.Domain\\Tests.Domain.csproj|solutionrelative:core\\tests.domain\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\challenge\\getchallengetestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\challenge\\getchallengetestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\challenge\\addchallengetestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\challenge\\addchallengetestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\challenge\\getchallengetestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\challenge\\getchallengetestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\tests\\challenge\\challengetestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\tests\\challenge\\challengetestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\challenge\\challengetestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\challenge\\challengetestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\pages\\tests\\challenge\\addchallengetestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\pages\\tests\\challenge\\addchallengetestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADA99EE-72C7-4E90-A3CB-3E121EAE242A}|core\\Tests.Domain\\Tests.Domain.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.domain\\entities\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADA99EE-72C7-4E90-A3CB-3E121EAE242A}|core\\Tests.Domain\\Tests.Domain.csproj|solutionrelative:core\\tests.domain\\entities\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|c:\\users\\anvil\\desktop\\tests\\tests.presentation.mauiclient\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCBD7D4-4111-4E98-8FD2-8FF472C8C709}|Tests.Presentation.MAUIClient\\Tests.Presentation.MAUIClient.csproj|solutionrelative:tests.presentation.mauiclient\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|c:\\users\\anvil\\desktop\\tests\\infrastructure\\tests.infrastructure\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|solutionrelative:infrastructure\\tests.infrastructure\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|c:\\users\\anvil\\desktop\\tests\\infrastructure\\tests.infrastructure\\services\\challengeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|solutionrelative:infrastructure\\tests.infrastructure\\services\\challengeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|c:\\users\\anvil\\desktop\\tests\\infrastructure\\tests.infrastructure\\persistence\\repositories\\finalexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|solutionrelative:infrastructure\\tests.infrastructure\\persistence\\repositories\\finalexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|c:\\users\\anvil\\desktop\\tests\\infrastructure\\tests.infrastructure\\persistence\\repositories\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|solutionrelative:infrastructure\\tests.infrastructure\\persistence\\repositories\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|c:\\users\\anvil\\desktop\\tests\\infrastructure\\tests.infrastructure\\persistence\\repositories\\challengerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5361CE-3A74-4254-939F-F77BFA240487}|infrastructure\\Tests.Infrastructure\\Tests.Infrastructure.csproj|solutionrelative:infrastructure\\tests.infrastructure\\persistence\\repositories\\challengerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.application\\common\\interfaces\\services\\ichallengeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|solutionrelative:core\\tests.application\\common\\interfaces\\services\\ichallengeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.application\\common\\interfaces\\repositories\\ifinalexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|solutionrelative:core\\tests.application\\common\\interfaces\\repositories\\ifinalexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.application\\common\\interfaces\\repositories\\iexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|solutionrelative:core\\tests.application\\common\\interfaces\\repositories\\iexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.application\\common\\interfaces\\repositories\\ichallengerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|solutionrelative:core\\tests.application\\common\\interfaces\\repositories\\ichallengerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.application\\common\\interfaces\\services\\ifinalexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|solutionrelative:core\\tests.application\\common\\interfaces\\services\\ifinalexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|c:\\users\\anvil\\desktop\\tests\\core\\tests.application\\common\\interfaces\\services\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE833C3-6A66-4DDF-8D56-16FFBACE8BCC}|core\\Tests.Application\\Tests.Application.csproj|solutionrelative:core\\tests.application\\common\\interfaces\\services\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\AppShell.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\AppShell.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:16:32.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\DependencyInjection.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:21:16.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddChallengeTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\AddChallengeTestPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\AddChallengeTestPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\AddChallengeTestPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\AddChallengeTestPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:23:22.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChallengeTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\ChallengeTestPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\ChallengeTestPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\ChallengeTestPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\ChallengeTestPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:23:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetChallengeTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\GetChallengeTestPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\GetChallengeTestPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\GetChallengeTestPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\GetChallengeTestPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:24:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddFinalExamTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\AddFinalExamTestPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\AddFinalExamTestPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\AddFinalExamTestPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\AddFinalExamTestPage.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T14:09:59.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamTestePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\ExamTestePage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\ExamTestePage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\ExamTestePage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\ExamTestePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:58:00.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalExamTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\FinalExamTestPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\FinalExamTestPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\FinalExamTestPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\FinalExamTestPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T14:10:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\App.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:16:09.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:32:47.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddExamTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\AddExamTestPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\AddExamTestPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\AddExamTestPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\AddExamTestPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:54:18.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\App.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\App.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\App.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:15:06.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetFinalExamTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\GetFinalExamTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\GetFinalExamTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\GetFinalExamTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\GetFinalExamTestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:15:30.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinalExamTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\FinalExamTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\FinalExamTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\FinalExamTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\FinalExamTestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:08:09.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddFinalExamTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\AddFinalExamTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\AddFinalExamTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\AddFinalExamTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\FinalExam\\AddFinalExamTestViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:13:11.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddExamTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\AddExamTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\AddExamTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\AddExamTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\AddExamTestViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:50:55.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetFinalExamTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\GetFinalExamTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\GetFinalExamTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\GetFinalExamTestPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\GetFinalExamTestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:12:23.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetFinalExamTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\GetFinalExamTestPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\GetFinalExamTestPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\GetFinalExamTestPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\GetFinalExamTestPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T14:10:30.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FinalExamTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\FinalExamTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\FinalExamTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\FinalExamTestPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\FinalExamTestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:11:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddFinalExamTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\AddFinalExamTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\AddFinalExamTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\AddFinalExamTestPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\FinalExam\\AddFinalExamTestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:11:16.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Domain\\Entities\\FinalExam.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Domain\\Entities\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Domain\\Entities\\FinalExam.cs",
+              "RelativeToolTip": "core\\Tests.Domain\\Entities\\FinalExam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:24:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FinalExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Services\\FinalExamService.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Tests.Infrastructure\\Services\\FinalExamService.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Services\\FinalExamService.cs",
+              "RelativeToolTip": "infrastructure\\Tests.Infrastructure\\Services\\FinalExamService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:10:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Domain\\Entities\\Base\\Test.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Domain\\Entities\\Base\\Test.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Domain\\Entities\\Base\\Test.cs",
+              "RelativeToolTip": "core\\Tests.Domain\\Entities\\Base\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:28:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T14:07:14.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetExamTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\GetExamTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\GetExamTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\GetExamTestPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\GetExamTestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:05:21.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetExamTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\GetExamTestPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\GetExamTestPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\GetExamTestPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\GetExamTestPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T14:02:03.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExamTestePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\ExamTestePage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\ExamTestePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\ExamTestePage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\ExamTestePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:01:38.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetExamTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\GetExamTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\GetExamTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\GetExamTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\GetExamTestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:00:18.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Common\\Routes.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Common\\Routes.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Common\\Routes.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Common\\Routes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:21:38.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:26:29.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExamTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\ExamTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\ExamTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\ExamTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Exam\\ExamTestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:50:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddExamTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\AddExamTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\AddExamTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\AddExamTestPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Exam\\AddExamTestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:56:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Domain\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Domain\\Entities\\Exam.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Domain\\Entities\\Exam.cs",
+              "RelativeToolTip": "core\\Tests.Domain\\Entities\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:53:13.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddChallengeTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\AddChallengeTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\AddChallengeTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\AddChallengeTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\AddChallengeTestViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:27:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetChallengeTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\GetChallengeTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\GetChallengeTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\GetChallengeTestPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\GetChallengeTestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:38:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetChallengeTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\GetChallengeTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\GetChallengeTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\GetChallengeTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\GetChallengeTestViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:36:42.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChallengeTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\ChallengeTestViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\ChallengeTestViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\ChallengeTestViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Tests\\Challenge\\ChallengeTestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:27:40.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\MainPage.xaml",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:43:52.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\AppShell.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:16:50.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChallengeTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\ChallengeTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\ChallengeTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\ChallengeTestPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\ChallengeTestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:38:06.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddChallengeTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\AddChallengeTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\AddChallengeTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\AddChallengeTestPage.xaml.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\Pages\\Tests\\Challenge\\AddChallengeTestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:24:29.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\MauiProgram.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:17:29.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Domain\\Entities\\Challenge.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Domain\\Entities\\Challenge.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Domain\\Entities\\Challenge.cs",
+              "RelativeToolTip": "core\\Tests.Domain\\Entities\\Challenge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:28:20.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Base\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Tests.Presentation.MAUIClient\\ViewModels\\Base\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\Tests.Presentation.MAUIClient\\ViewModels\\Base\\BaseViewModel.cs",
+              "RelativeToolTip": "Tests.Presentation.MAUIClient\\ViewModels\\Base\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:25:54.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Services\\ExamService.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Tests.Infrastructure\\Services\\ExamService.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Services\\ExamService.cs",
+              "RelativeToolTip": "infrastructure\\Tests.Infrastructure\\Services\\ExamService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:10:42.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ChallengeService.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Services\\ChallengeService.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Tests.Infrastructure\\Services\\ChallengeService.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Services\\ChallengeService.cs",
+              "RelativeToolTip": "infrastructure\\Tests.Infrastructure\\Services\\ChallengeService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:10:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FinalExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\FinalExamRepository.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\FinalExamRepository.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\FinalExamRepository.cs",
+              "RelativeToolTip": "infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\FinalExamRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:10:00.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\ExamRepository.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\ExamRepository.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\ExamRepository.cs",
+              "RelativeToolTip": "infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\ExamRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:09:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ChallengeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\ChallengeRepository.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\ChallengeRepository.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\ChallengeRepository.cs",
+              "RelativeToolTip": "infrastructure\\Tests.Infrastructure\\Persistence\\Repositories\\ChallengeRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:08:08.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IFinalExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Services\\IFinalExamService.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Application\\Common\\Interfaces\\Services\\IFinalExamService.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Services\\IFinalExamService.cs",
+              "RelativeToolTip": "core\\Tests.Application\\Common\\Interfaces\\Services\\IFinalExamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:07:24.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Services\\IExamService.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Application\\Common\\Interfaces\\Services\\IExamService.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Services\\IExamService.cs",
+              "RelativeToolTip": "core\\Tests.Application\\Common\\Interfaces\\Services\\IExamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:07:17.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IChallengeService.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Services\\IChallengeService.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Application\\Common\\Interfaces\\Services\\IChallengeService.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Services\\IChallengeService.cs",
+              "RelativeToolTip": "core\\Tests.Application\\Common\\Interfaces\\Services\\IChallengeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:07:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IFinalExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Repositories\\IFinalExamRepository.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Application\\Common\\Interfaces\\Repositories\\IFinalExamRepository.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Repositories\\IFinalExamRepository.cs",
+              "RelativeToolTip": "core\\Tests.Application\\Common\\Interfaces\\Repositories\\IFinalExamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:07:08.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Repositories\\IExamRepository.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Application\\Common\\Interfaces\\Repositories\\IExamRepository.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Repositories\\IExamRepository.cs",
+              "RelativeToolTip": "core\\Tests.Application\\Common\\Interfaces\\Repositories\\IExamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:07:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IChallengeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Repositories\\IChallengeRepository.cs",
+              "RelativeDocumentMoniker": "core\\Tests.Application\\Common\\Interfaces\\Repositories\\IChallengeRepository.cs",
+              "ToolTip": "C:\\Users\\Anvil\\Desktop\\Tests\\core\\Tests.Application\\Common\\Interfaces\\Repositories\\IChallengeRepository.cs",
+              "RelativeToolTip": "core\\Tests.Application\\Common\\Interfaces\\Repositories\\IChallengeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:06:44.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

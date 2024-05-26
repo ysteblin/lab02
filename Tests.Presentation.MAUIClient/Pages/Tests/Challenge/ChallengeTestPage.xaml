@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tests.Presentation.MAUIClient.Pages.Tests.Challenge.ChallengeTestPage"
+             xmlns:viewModels="clr-namespace:Tests.Presentation.MAUIClient.ViewModels.Tests.Challenge"
+             x:DataType="viewModels:ChallengeTestViewModel"
+             Title="ChallengeTestPage">
+    <VerticalStackLayout>
+        <Button 
+            Text="Добавить объект" 
+            SemanticProperties.Hint="Добавить объект"
+            Command="{Binding GoToAddChallengeTestPageCommand}" 
+            HorizontalOptions="Fill" 
+            Margin="20"/>
+
+        <Button 
+            Text="Список объектов" 
+            SemanticProperties.Hint="Список объектов"
+            Command="{Binding GoToGetChallengeTestPageCommand}" 
+            HorizontalOptions="Fill" 
+            Margin="20"/>
+    </VerticalStackLayout>
+</ContentPage>

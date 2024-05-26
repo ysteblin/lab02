@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tests.Presentation.MAUIClient.Pages.Tests.FinalExam.FinalExamTestPage"
+             xmlns:viewModels="clr-namespace:Tests.Presentation.MAUIClient.ViewModels.Tests.FinalExam"
+             x:DataType="viewModels:FinalExamTestViewModel"
+             Title="FinalExamTestPage">
+    <VerticalStackLayout>
+        <Button 
+            Text="Добавить объект" 
+            SemanticProperties.Hint="Добавить объект"
+            Command="{Binding GoToAddFinalExamTestPageCommand}" 
+            HorizontalOptions="Fill" 
+            Margin="20"/>
+
+        <Button 
+            Text="Список объектов" 
+            SemanticProperties.Hint="Список объектов"
+            Command="{Binding GoToGetFinalExamTestPageCommand}" 
+            HorizontalOptions="Fill" 
+            Margin="20"/>
+    </VerticalStackLayout>
+</ContentPage>

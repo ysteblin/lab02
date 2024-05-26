@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Tests.Presentation.MAUIClient.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:routes="clr-namespace:Tests.Presentation.MAUIClient.Pages.Common" 
+    xmlns:pages="clr-namespace:Tests.Presentation.MAUIClient.Pages" 
+    xmlns:pagesChallengeTest="clr-namespace:Tests.Presentation.MAUIClient.Pages.Tests.Challenge"
+    xmlns:pagesExamTest="clr-namespace:Tests.Presentation.MAUIClient.Pages.Tests.Exam"
+    xmlns:pagesFinalExamTest="clr-namespace:Tests.Presentation.MAUIClient.Pages.Tests.FinalExam"
+    Title="Tests.Presentation.MAUIClient">
+
+    <FlyoutItem Title="Главная страница" >
+        <Tab>
+            <ShellContent
+       Title="Home"
+       ContentTemplate="{DataTemplate pages:MainPage}"
+       Route="{Static routes:Routes.MainRoute}" />
+        </Tab>
+    </FlyoutItem>
+
+
+    <FlyoutItem Title="Испытание" >
+        <Tab>
+            <ShellContent
+                Title="Испытание"
+                ContentTemplate="{DataTemplate pagesChallengeTest:ChallengeTestPage}"
+                Route="{Static routes:Routes.ChallengeTestPageRoute}" />
+        </Tab>
+    </FlyoutItem>
+
+
+    <FlyoutItem Title="Экзамен" >
+        <Tab>
+            <ShellContent
+            Title="Экзамен"
+            ContentTemplate="{DataTemplate pagesExamTest:ExamTestPage}"
+            Route="{Static routes:Routes.ExamTestPageRoute}" />
+        </Tab>
+    </FlyoutItem>
+
+
+
+    <FlyoutItem Title="Выпускной экзамен" >
+        <Tab>
+            <ShellContent
+            Title="Выпускной экзамен"
+            ContentTemplate="{DataTemplate pagesFinalExamTest:FinalExamTestPage}"
+            Route="{Static routes:Routes.FinalExamTestPageRoute}" />
+        </Tab>
+    </FlyoutItem>
+
+
+</Shell>
